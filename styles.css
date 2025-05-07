@@ -1,0 +1,17 @@
+
+
+body{
+    display: flex;
+    align-items:stretch;
+    justify-content: center;
+    
+    
+  }
+
+div{
+    
+    font-size: 5px;
+    width: 100px;
+    margin-left: 10px;
+
+}
